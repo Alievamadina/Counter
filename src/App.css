@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.ayat {
+  margin-top: 50px;
+  margin-left: 150px;
+box-shadow: 5px 5px 2px 3px;
+  width: 700px;
+  height: 350px;
+  border-radius: 15px;
+  border: 2px solid black;
+  background-color: rgb(224, 221, 221);
+  justify-content: center;
+  text-align: center;
+  
+}
